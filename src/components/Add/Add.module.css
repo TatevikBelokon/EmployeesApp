@@ -1,0 +1,21 @@
+.form{
+	display: flex;
+    flex-direction: column;
+}
+.input{
+	margin-bottom: 2%;
+}
+.button{
+	width: 7vw;
+    height: 5vh;
+    align-self: center;
+}
+.date{
+	align-self: self-start;
+}
+.btn{
+    padding: 15% 30%;
+}
+.btnEdit{
+	padding: 10% 21%;
+}

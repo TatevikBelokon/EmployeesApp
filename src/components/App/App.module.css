@@ -1,0 +1,11 @@
+.wrap{
+    margin: auto;
+    width: 85%;
+    background: lavender;
+    padding: 2% 5%;
+}
+.controlPanel{
+    display: flex;
+    justify-content: space-evenly;
+    padding: 2%;
+}

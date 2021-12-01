@@ -1,0 +1,12 @@
+.delete{
+	display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.btnConfirm{
+    margin-right: 2vw;
+    width: 6vw;
+}
+.btn{
+    padding: 15% 30%;
+}
